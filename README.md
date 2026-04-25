@@ -90,3 +90,9 @@ $$
 L_u(\theta) = L_{tb}(\theta) + L_{sb}(\theta)
 $$
 
+<img width="419" height="324" alt="image" src="https://github.com/user-attachments/assets/4b5c4649-3fb1-46e6-8584-4906b8cb3268" />
+
+L2 Relative Error Norm: 0.1341%
+
+<img width="1064" height="548" alt="image" src="https://github.com/user-attachments/assets/13bf0982-3c35-4ecb-8c1c-5e9db0fd7da2" />
+
